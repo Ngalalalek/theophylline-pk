@@ -1,0 +1,3 @@
+model,mean_abs_res_before_2h,mean_abs_res_after_2h
+1-cmt,0.181,0.047
+1-cmt + tlag,0.060,0.036
